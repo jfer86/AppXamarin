@@ -1,0 +1,14 @@
+<resources>
+	<color name="white">#FFFFFF</color>
+	<color name="edittext_bg_color">#000000</color>
+	<string name="app_name">App3</string>
+	<string name="action_settings">Settings</string>
+	<string name="description">login</string>
+	<string name="email">Correo Electrónico</string>
+	<string name="pass">Contraseña</string>
+	<string name="login">Iniciar sesión</string>
+	<string name="forgot_password">Olvidaste tu contraseña?</string>
+
+	<string name="welcome">Bienvenido de nuevo</string>
+
+</resources>
